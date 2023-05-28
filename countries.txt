@@ -4,8 +4,22 @@ DZ	Algeria
 AS	American Samoa	--
 AD	Andorra	
 AO	Angola	
-AI	Anguilla	--
-AQ	Antarctica	--
-AG	Antigua and Barbuda	
-AR	Argentina	
-AM	Armenia
+Australia	Canberra
+Austria	Vienna
+Azerbaijan	Baku
+Bahamas	Nassau
+Bahrain	Manama
+Bangladesh	Dhaka
+Barbados	Bridgetown
+Chile	Santiago
+China	Beijing
+Colombia	Bogota
+Comoros	Moroni
+Congo, Democratic Republic of the	Kinshasa
+Congo, Republic of the	Brazzaville
+Costa Rica	San Jose
+Côte d'Ivoire (Ivory Coast)	Yamoussoukro[4]
+Croatia	Zagreb
+Cuba	Havana
+Cyprus	Nicosia
+Czech Republic (Czechia)[5]	Prague
