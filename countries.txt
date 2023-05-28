@@ -4,8 +4,6 @@ DZ	Algeria
 AS	American Samoa	--
 AD	Andorra	
 AO	Angola	
-Australia	Canberra
-Austria	Vienna
 Azerbaijan	Baku
 Bahamas	Nassau
 Bahrain	Manama
