@@ -1,6 +1,2 @@
 This is file 1.
-<<<<<<< HEAD
 we are writing some lines of code here.
-=======
-Added  another line ,.
->>>>>>> 6a92f6c (added fruits.txt)
