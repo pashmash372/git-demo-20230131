@@ -7,15 +7,19 @@ strawberries,
 blueberries,
 raspberries,
 cherries, 
-pears, 
-pineapples, 
-mangoes,
-kiwis,
-watermelons, 
-cantaloupes,
-plums, 
-apricots, 
-peaches,
-lychees,
-nectarines,
-avocados.
+Apple - sweet.
+Mango - sweet.
+Banana - sweet.
+Papaya - sweet.
+Orange - sour.
+Lemon - sour.(can be included in vegetables).
+Grapes - sour.
+Guava - sweet.
+Kiwi - sour.
+Starfruit - sour.
+Watermelon - sweet.
+Melon - sweet.
+aerw -  asdfdf
+sadfa -     asdfa
+asdfsa - asdfasdf
+eetgeg- asdf
