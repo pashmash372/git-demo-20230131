@@ -1,2 +1,7 @@
 This is file 1.
 we are writing some lines of code here.
+<<<<<<< HEAD
+=======
+
+Added  another line.
+>>>>>>> 8d4d46f (Asdasd)
